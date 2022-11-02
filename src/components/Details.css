@@ -1,0 +1,44 @@
+.left {
+  float: left;
+}
+
+.countryDropdown1 {
+  display: inline-block;
+  padding-bottom: 50px;
+}
+
+.countryDropdown2 {
+  display: inline-block;
+  padding-bottom: 50px;
+}
+
+.searchbar {
+  display: inline-block;
+}
+
+.search {
+  display:inline-block;
+}
+
+.filterSearch {
+  padding-left: 25px;
+  display:inline-block;
+}
+
+.currencydropdown {
+  padding-top: 10px;
+  display:inline-block;
+}
+
+.currencytitle {
+  padding-left: 200px;
+  display:inline-block;
+}
+
+.currencysymbols {
+  display:inline-block;
+}
+
+.dropdownButtons {
+  display: inline-block;
+}
